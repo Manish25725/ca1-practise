@@ -1,4 +1,4 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 vector<vector<char>> grid;
 vector<vector<string>> res;
